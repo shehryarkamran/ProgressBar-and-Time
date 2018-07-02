@@ -1,0 +1,11 @@
+D:\Visual programming\ProgressBar and Time\ProgressBar and Time\bin\Debug\ProgressBar and Time.exe.config
+D:\Visual programming\ProgressBar and Time\ProgressBar and Time\bin\Debug\ProgressBar and Time.exe
+D:\Visual programming\ProgressBar and Time\ProgressBar and Time\bin\Debug\ProgressBar and Time.pdb
+D:\Visual programming\ProgressBar and Time\ProgressBar and Time\obj\Debug\ProgressBar and Time.csprojResolveAssemblyReference.cache
+D:\Visual programming\ProgressBar and Time\ProgressBar and Time\obj\Debug\ProgressBar_and_Time.Form1.resources
+D:\Visual programming\ProgressBar and Time\ProgressBar and Time\obj\Debug\ProgressBar_and_Time.Properties.Resources.resources
+D:\Visual programming\ProgressBar and Time\ProgressBar and Time\obj\Debug\ProgressBar and Time.csproj.GenerateResource.cache
+D:\Visual programming\ProgressBar and Time\ProgressBar and Time\obj\Debug\ProgressBar and Time.csproj.CoreCompileInputs.cache
+D:\Visual programming\ProgressBar and Time\ProgressBar and Time\obj\Debug\ProgressBar and Time.exe
+D:\Visual programming\ProgressBar and Time\ProgressBar and Time\obj\Debug\ProgressBar and Time.pdb
+D:\Visual programming\ProgressBar and Time\ProgressBar and Time\obj\Debug\ProgressBar_and_Time.Form2.resources
